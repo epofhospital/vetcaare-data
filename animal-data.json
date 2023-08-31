@@ -1,4 +1,4 @@
- [
+[
   { "nameTh": "กบ", "nameEn": "frog" },
   { "nameTh": "กระจง", "nameEn": "mouse deer" },
   { "nameTh": "กระซู่", "nameEn": "Sumatran rhinoceros" },
@@ -140,5 +140,5 @@
   { "nameTh": "อีเห็น", "nameEn": "Civet" },
   { "nameTh": "ฮิปโปโปเตมัส", "nameEn": "hippopotamus" },
   { "nameTh": "ไฮยีนา", "nameEn": "hyena" },
-  { "nameTh": "แฮมเตอร์", "nameEn": "hamster" },
+  { "nameTh": "แฮมเตอร์", "nameEn": "hamster" }
 ]
