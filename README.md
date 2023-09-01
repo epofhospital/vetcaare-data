@@ -9,5 +9,5 @@
 
 
 ### API JSON ไฟล์ข้อมูลสัตว์
-- (ตำบล) https://epofhospital.github.io/vetcaare-data/animal-data.json
+- (รายชื่อสัตว์) https://epofhospital.github.io/vetcaare-data/animal-data.json
 
